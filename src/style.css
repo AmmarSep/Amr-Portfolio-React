@@ -154,9 +154,10 @@ button:focus {
   color: rgb(250, 250, 250) !important;
 }
 
-.logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+.navbar-brand-text {
+  font-weight: bold;
+  font-size: 1.4em;
+  color: #cd5ff8;
 }
 
 .navbar-nav .nav-link {
